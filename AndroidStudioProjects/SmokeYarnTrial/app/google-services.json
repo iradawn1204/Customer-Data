@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367362145926",
+    "project_id": "smokeyarn-fd81f",
+    "storage_bucket": "smokeyarn-fd81f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367362145926:android:282f5980e7bf234f911b07",
+        "android_client_info": {
+          "package_name": "com.example.smokeyarntrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367362145926-bss6ahjrpuftk6k3jve1c3c0lg2hk706.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCEGoEI7wstug4FMWLSW5iteH-2_SZesw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367362145926-bss6ahjrpuftk6k3jve1c3c0lg2hk706.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
